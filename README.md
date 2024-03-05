@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Olá eu sou o   Antonio Agiz, cientista de dados e criadora de conteúdo de programação e tecnologia!
+## Olá eu sou o   Antonio Agiz, cientista de dados e criador de conteúdo de programação e tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
